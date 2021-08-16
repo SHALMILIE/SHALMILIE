@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SHALMILIE
-- 👀 I’m interested in ...learnig and creating new things
+- 👋 Hi, I’m @SHALMILIE N.K GOWDA
+- 👀 I’m interested in ...learning and creating new things.
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...shalmilienk@gmail.com
